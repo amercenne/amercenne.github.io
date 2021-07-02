@@ -83,10 +83,10 @@ author:
   name             : "Alexis Mercenne"
   avatar           : "profile.png"
   bio              : "Theoretical Nuclear Physicist"
-  location         : "New Haven"
+  location         : 
   employer         : "Yale University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=k3wLQY4AAAAJ&view_op=list_works&gmla=AJsN-F670qoy52IpHGRvxi1ZlEHDqTxMgL1zkMEbPRjFDXwmDqq3jGB1nXizPc92U23SMYm5QI4y7AgydgYrU0GRNZQQRagEl_lE5r2AbbVsBYxQ_OI3IR6tMBvVFvWsapXZVQ1FzyAVV8Reurhc224GnoVV9KlVEedPvxEYp0xnjWpl6vLcdCg"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
