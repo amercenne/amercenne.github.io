@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Publications"
 ---
 Preprint of the SA-RGM paper.
 
