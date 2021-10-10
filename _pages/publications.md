@@ -7,7 +7,7 @@ author_profile: true
 
 Preprint of the SA-RGM paper.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://amercenne.github.io/files/SARGMpaper.pdf)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
